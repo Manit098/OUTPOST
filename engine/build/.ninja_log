@@ -1,0 +1,5 @@
+# ninja log v7
+1	18	1792577058393135978	CMakeFiles/outpost_engine.dir/src/simulation.cpp.o	cba0f2014e417b21
+18	484	1792577058410859699	liboutpost_engine.a	dae954eb6260a96c
+2	11281	1792577058394136023	CMakeFiles/outpost_server.dir/src/api/main.cpp.o	aebfe119ec70fa1b
+11283	11524	1792577069674638180	outpost_server	45e00bd949f5e2f0

@@ -1,0 +1,4 @@
+/home/manit098/Projects/OUTPOST/engine/build/CMakeFiles/outpost_engine.dir
+/home/manit098/Projects/OUTPOST/engine/build/CMakeFiles/outpost_server.dir
+/home/manit098/Projects/OUTPOST/engine/build/CMakeFiles/edit_cache.dir
+/home/manit098/Projects/OUTPOST/engine/build/CMakeFiles/rebuild_cache.dir
